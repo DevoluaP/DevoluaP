@@ -27,4 +27,6 @@
 <div>
   <a href="https://www.linkedin.com/in/paulo-henrique-223123218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:devoluap@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/DevoluaP/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/27024633/paulo-henrique" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-%23333?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </div>
