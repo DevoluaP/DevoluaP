@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Paulo (DevoluaP)
 
-- 🔭 Desenvolvedor Web - Full Stack
+- 🔭 Desenvolvedor Full Stack
 - 🌱 Cursando Técnico em Informática para Internet no Senac
 
 <div>
