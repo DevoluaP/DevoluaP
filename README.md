@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo (DevoluaP)
 
 - 🔭 Desenvolvedor Full Stack
-- 🌱 Cursando Técnico em Informática para Internet no Senac
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na UNIP
 
 <div>
   <a href="https://github.com/DevoluaP">
