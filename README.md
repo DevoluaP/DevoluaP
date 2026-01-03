@@ -1,7 +1,7 @@
-# Olá! Eu sou o Paulo (DevoluaP)
+## Olá! Eu sou o Paulo (DevoluaP)
 
 ## Desenvolvedor Full Stack Júnior
-- Tenho experiência em front-end utilizando React.js, Angular, TypeScript e React Native. No back-end, trabalho com Node.js e APIs RESTful, integrando sistemas e gerenciando bancos de dados SQL (MySQL e PostgreSQL) e NoSQL (MongoDB). Também tenho experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker.
+Tenho experiência em front-end utilizando React.js, Angular, TypeScript e React Native. No back-end, trabalho com Node.js e APIs RESTful, integrando sistemas e gerenciando bancos de dados SQL (MySQL e PostgreSQL) e NoSQL (MongoDB). Também tenho experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker.
 
 ## Stacks
 <div style="display: inline_block"><br>
@@ -20,13 +20,4 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB">
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/devoluap/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:devoluap@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/DevoluaP/" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/27024633/paulo-henrique" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-%23333?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </div>
