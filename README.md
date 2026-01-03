@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Paulo (DevoluaP)
 
-- 🔭 Desenvolvedor Full Stack
+- 🔭 Desenvolvedor Full Stack Júnior
+- Tenho experiência em front-end utilizando React.js, Angular, TypeScript e React Native. No back-end, trabalho com Node.js e APIs RESTful, integrando sistemas e gerenciando bancos de dados SQL (MySQL e PostgreSQL) e NoSQL (MongoDB). Também tenho experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker.
 
 <div>
   <a href="https://github.com/DevoluaP">
