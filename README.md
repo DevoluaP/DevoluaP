@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Paulo Henrique | Hello! I'm Paulo Henrique
 
-## Desenvolvedor Full Stack Júnior | Junior Full Stack Developer
+## Desenvolvedor Full Stack | Full Stack Developer
 
 ##### PT
-Tenho experiência em front-end utilizando HTML, CSS, JavaScript, React.js, Angular, TypeScript e React Native. No back-end, trabalho com Node.js, PHP, Python e Java, criando ou consumindo APIs RESTful/GraphQL, e gerenciando bancos de dados SQL (MySQL/PostgreSQL) e NoSQL (MongoDB). Também possuo experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker. Para testar as aplicações, utilizo diversas ferramentas como Jest, Cypress, Playwright, JUnit, PHPUnit, entre outras, conforme a linguagem de programação utilizada.
+Tenho experiência em front-end utilizando HTML, CSS, JavaScript, React.js, Angular, TypeScript e React Native. No back-end, trabalho com Node.js, PHP, Python e Java, criando ou consumindo APIs RESTful/GraphQL, e gerenciando bancos de dados SQL (MySQL/PostgreSQL) e NoSQL (MongoDB). Também possuo experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker. Para testar as aplicações, utilizo diversas ferramentas como Jest, React Testing Library, PHPUnit, entre outras, conforme a linguagem de programação utilizada ou a necessidade do sistema.
 
 ##### EN
-I have experience in front-end development using HTML, CSS, JavaScript, React.js, Angular, TypeScript, and React Native. In the back-end, I work with Node.js, PHP, Python, and Java, creating or consuming RESTful/GraphQL APIs, and managing SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) databases. I also have experience with cloud infrastructure, performing automated deployments and managing environments using AWS, Microsoft Azure, and Docker. To test applications, I use various tools such as Jest, Cypress, Playwright, JUnit, and PHPUnit, among others, depending on the programming language used.
+I have experience in front-end development using HTML, CSS, JavaScript, React.js, Angular, TypeScript, and React Native. On the back-end, I work with Node.js, PHP, Python, and Java, creating or consuming RESTful/GraphQL APIs, and managing SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) databases. I also have experience with cloud infrastructure, performing automated deployments and managing environments using AWS, Microsoft Azure, and Docker. To test applications, I use various tools such as Jest, React Testing Library, PHPUnit, among others, according to the programming language used or the system requirements.
 
 ## Tecnologias que utilizo | Technologies I use
 <div style="display: inline_block">
