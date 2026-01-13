@@ -3,10 +3,10 @@
 ## Desenvolvedor Full Stack | Full Stack Developer
 
 ##### PT
-Tenho experiência em front-end utilizando HTML, CSS, JavaScript, React.js, Angular, TypeScript e React Native. No back-end, trabalho com Node.js, PHP, Python e Java, criando ou consumindo APIs RESTful/GraphQL, e gerenciando bancos de dados SQL (MySQL/PostgreSQL) e NoSQL (MongoDB). Também possuo experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker. Para testar as aplicações, utilizo diversas ferramentas como Jest, React Testing Library, PHPUnit, entre outras, conforme a linguagem de programação utilizada ou a necessidade do sistema.
+Tenho experiência em front-end utilizando HTML, CSS, JavaScript, TypeScript, React.js, Angular e React Native. No back-end, trabalho com Node.js, PHP, e Python, criando ou consumindo APIs RESTful/GraphQL, e gerenciando bancos de dados SQL (MySQL/PostgreSQL) e NoSQL (MongoDB). Também possuo experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando AWS, Microsoft Azure e Docker. Para testar as aplicações, utilizo diversas ferramentas como Jest, React Testing Library, PHPUnit, entre outras, conforme a linguagem de programação utilizada ou a necessidade do sistema.
 
 ##### EN
-I have experience in front-end development using HTML, CSS, JavaScript, React.js, Angular, TypeScript, and React Native. On the back-end, I work with Node.js, PHP, Python, and Java, creating or consuming RESTful/GraphQL APIs, and managing SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) databases. I also have experience with cloud infrastructure, performing automated deployments and managing environments using AWS, Microsoft Azure, and Docker. To test applications, I use various tools such as Jest, React Testing Library, PHPUnit, among others, according to the programming language used or the system requirements.
+I have experience in front-end development using HTML, CSS, JavaScript, TypeScript, React.js, Angular, and React Native. On the back-end, I work with Node.js, PHP, and Python, creating or consuming RESTful/GraphQL APIs, and managing SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) databases. I also have experience with cloud infrastructure, performing automated deployments and managing environments using AWS, Microsoft Azure, and Docker. To test applications, I use various tools such as Jest, React Testing Library, PHPUnit, among others, according to the programming language used or the system requirements.
 
 ## Tecnologias que utilizo | Technologies I use
 <div style="display: inline_block">
@@ -19,7 +19,6 @@ I have experience in front-end development using HTML, CSS, JavaScript, React.js
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB">
