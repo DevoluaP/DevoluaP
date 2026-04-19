@@ -1,29 +1,114 @@
-### Olá! Eu sou o Paulo Henrique | Hello! I'm Paulo Henrique
+<!-- HEADER ANIMADO -->
+<div align="center">
 
-## Desenvolvedor Full Stack | Full Stack Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:0a0f1e&fontColor=FFFFFF&fontSize=32&section=header&animation=scaleIn&text=Welcome" />
 
-#### 📚 Cursando o PROPROFISSÃO (Instituto PROA) e Técnico em Inteligência Artificial (SENAC Lapa Tito).
+### `hello, i am`
+# Paulo Henrique
+**Full Stack Developer**
 
-##### PT
-Tenho experiência em front-end utilizando HTML, CSS, JavaScript, TypeScript, React, Angular e React Native. No back-end, trabalho com Node.js, PHP e Python, criando ou consumindo APIs RESTful, e gerenciando bancos de dados SQL (MySQL/PostgreSQL) e NoSQL (MongoDB). Também possuo experiência com infraestrutura em nuvem, realizando deploys automatizados e gerenciamento de ambientes utilizando Amazon Web Services (AWS) e Docker. Para testar as aplicações, utilizo diversas ferramentas como Jest, React Testing Library, entre outras, conforme a linguagem de programação utilizada ou a necessidade do sistema.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=AI+Student;PROANO;React+%7C+Node.js+%7C+JavaScript+%7C+Python;Always+learning%2C+Always+evolving%2C;Maximum+Effort!)](https://git.io/typing-svg)
 
-##### EN
-I have experience in front-end development using HTML, CSS, JavaScript, TypeScript, React, Angular, and React Native. On the back-end, I work with Node.js, PHP, and Python, creating or consuming RESTful APIs, and managing SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) databases. I also have experience with cloud infrastructure, performing automated deployments and managing environments using Amazon Web Services (AWS), and Docker. To test applications, I use various tools such as Jest, React Testing Library, among others, according to the programming language used or the system requirements.
-
-## Stacks
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="Angular">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB">
-  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker">
 </div>
+
+---
+
+## `about_me`
+
+```json
+{
+  "name": "Paulo Henrique",
+  "location": "São Paulo, BR",
+  "title": "Full Stack Developer",
+  "currently studying": [
+    "PROPROFISSÃO · Instituto PROA",
+    "Technical degree in Artificial Intelligence · SENAC Lapa Tito"
+  ],
+  "philosophy": "Clean code is simple, precise, and efficient."
+}
+```
+
+<details>
+
+<summary>Leia em Português</summary>
+  
+## `sobre_mim`
+ 
+```json
+{
+  "nome": "Paulo Henrique",
+  "localização": "São Paulo, BR",
+  "função": "Desenvolvedor Full Stack",
+  "estudando": [
+    "PROPROFISSÃO · Instituto PROA",
+    "Técnico em Inteligência Artificial · SENAC Lapa Tito"
+  ],
+  "filosofia": "Código limpo é simples, preciso e eficiente."
+}
+```
+ 
+</details>
+
+---
+
+## `tech_stack`
+
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Infra & Cloud
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+
+### Testing
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-000000?style=for-the-badge&logo=testing-library&logoColor=white)
+
+---
+
+## `contact_me`
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <a href="https://devoluap.github.io/Meu_Portfolio" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" width="40" height="40" alt="Portfolio" />
+        <br/>
+        <sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/devoluap" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn" />
+        <br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:devoluap@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
+        <br/>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:0a0f1e&fontColor=FFFFFF&fontSize=32&section=footer&animation=scaleIn&textBg=false&fontAlignY=65" />
