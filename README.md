@@ -1,7 +1,6 @@
-<!-- HEADER ANIMADO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:0a0f1e&fontColor=FFFFFF&fontSize=32&section=header&animation=scaleIn&text=Welcome" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:0a0f1e&section=header&animation=scaleIn" />
 
 ### `hello, i am`
 # Paulo Henrique
