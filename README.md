@@ -76,7 +76,7 @@
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-000000?style=for-the-badge&logo=testing-library&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
