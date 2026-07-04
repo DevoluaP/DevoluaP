@@ -19,10 +19,7 @@
   "name": "Paulo Henrique",
   "location": "São Paulo, BR",
   "title": "Full Stack Developer",
-  "currently studying": [
-    "PROPROFISSÃO · Instituto PROA",
-    "Technical degree in Artificial Intelligence · SENAC Lapa Tito"
-  ],
+  "currently studying": "Artificial Intelligence",
   "philosophy": "Clean code is simple, precise, and efficient."
 }
 ```
