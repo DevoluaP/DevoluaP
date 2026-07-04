@@ -6,7 +6,7 @@
 # Paulo Henrique
 **Full Stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=AI+Student;PROANO;React+%7C+Node.js+%7C+JavaScript+%7C+Python;Always+learning%2C+Always+evolving%2C;Maximum+Effort!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=AI+Student;React+%7C+Node.js+%7C+JavaScript+%7C+Python;Always+learning%2C+Always+evolving%2C;Maximum+Effort!)](https://git.io/typing-svg)
 
 </div>
 
