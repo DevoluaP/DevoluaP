@@ -35,10 +35,7 @@
   "nome": "Paulo Henrique",
   "localização": "São Paulo, BR",
   "função": "Desenvolvedor Full Stack",
-  "estudando": [
-    "PROPROFISSÃO · Instituto PROA",
-    "Técnico em Inteligência Artificial · SENAC Lapa Tito"
-  ],
+  "estudando": "Inteligência Artificial",
   "filosofia": "Código limpo é simples, preciso e eficiente."
 }
 ```
