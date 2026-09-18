@@ -17,10 +17,10 @@
 ```json
 {
   "name": "Paulo Henrique",
-  "location": "São Paulo, BR",
+  "location": "São Paulo, Brazil",
   "title": "Full Stack Developer",
   "currently studying": "Artificial Intelligence",
-  "philosophy": "Clean code is simple, precise, and efficient."
+  "current position": "Apprentice at Nubank"
 }
 ```
 
@@ -33,10 +33,10 @@
 ```json
 {
   "nome": "Paulo Henrique",
-  "localização": "São Paulo, BR",
+  "localização": "São Paulo, Brasil",
   "função": "Desenvolvedor Full Stack",
   "estudando": "Inteligência Artificial",
-  "filosofia": "Código limpo é simples, preciso e eficiente."
+  "cargo atual": "Jovem Aprendiz no Nubank"
 }
 ```
  
